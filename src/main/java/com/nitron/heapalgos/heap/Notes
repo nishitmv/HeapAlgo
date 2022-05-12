@@ -1,0 +1,9 @@
+Identification : Given K and Smallest/Largest i.e Kth smallest or Kth Largest
+
+if Given K and Smallest -> Choose Max heap -> Because largest element is root of binary tree and we keep popping after size of heap >K
+
+if Given K and Largest -> Choose Min heap . -> Because smallest element is root of binary tree and we keep popping after size of heap >K
+
+Element at K in heap is kth element smallest or largest for max and min heap respectively.
+
+Use priority queue as min or max heap .
