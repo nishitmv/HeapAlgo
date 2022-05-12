@@ -1,3 +1,2 @@
 /.idea/
-/target/classes/com/nitron/heapalgos/heap/Heap.class
-/target/classes/com/nitron/heapalgos/kthSmallestElement/KthSmallestElementFinder.class
+/target/classes/*
